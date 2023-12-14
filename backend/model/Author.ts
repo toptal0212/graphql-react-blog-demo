@@ -7,3 +7,4 @@ export interface IAuthor {
   joinedTimestamp: number;
   avatarUrl: string;
 }
+ 
