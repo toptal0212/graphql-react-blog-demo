@@ -20,3 +20,4 @@ export class Author implements IAuthor {
   @ApiModelProperty()
   links: HatoasLink[];
 }
+ 
