@@ -9,7 +9,7 @@ export class AuthorConverter {
       "self",
       `${ENDPOINT}${COMMENT_ENDPOINT}/${fromDatabaseAuthor.id}`
     );
-
+ 
     const {
       id,
       avatarUrl,
