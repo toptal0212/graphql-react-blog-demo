@@ -22,7 +22,7 @@ const SummaryImage = styled.img`
 `;
 
 const CommentSummary = styled.div`
-  font-size: 0.8em;
+  font-size: 0.8em; 
   text-align: right;
 `;
 
